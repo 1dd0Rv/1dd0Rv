@@ -1,5 +1,6 @@
 ### 🚀 User Profile: 1dd0Rv
 
+``` Bash
 $ whoami
 > Estudiante de 2º de ASIR apasionado por la Ciberseguridad.
 
