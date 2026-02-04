@@ -1,16 +1,17 @@
-## Hi there 👋
+### 🚀 User Profile: 1dd0Rv
 
-<!--
-**1dd0Rv/1dd0Rv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```bash
+$ whoami
+> Estudiante de 2º de ASIR apasionado por la Ciberseguridad.
 
-Here are some ideas to get you started:
+$ cat skills.txt
+> Lenguajes:     [ Python, Bash ]
+> Sistemas:      [ Linux (Debian/Kali/RHEL) ]
+> Cloud:         [ AWS ]
+> Networking:    [ TCP/IP, Routing, Switching ]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+$ current_goal
+> Especializarme en SecDevOps y Pentesting.
+
+$ ./contact_me.sh
+> Enviame un mensaje para colaborar en proyectos de seguridad.
