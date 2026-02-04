@@ -7,11 +7,11 @@ $ whoami
 $ cat skills.txt
 > Lenguajes:     [ Python, Bash ]
 > Sistemas:      [ Linux (Debian/Kali/RHEL) ]
-> Cloud:         [ AWS ]
-> Networking:    [ TCP/IP, Routing, Switching ]
+> Cloud:         [ AWS/Azure ]
+> Networking:    [ TCP/IP, DNS, DHCP, VLAN, Switching ]
 
 $ current_goal
-> Especializarme en SecDevOps y Pentesting.
+> Especializarme en SecDevOps.
 
 $ ./contact_me.sh
-> Enviame un mensaje para colaborar en proyectos de seguridad.
+> Enviame un mensaje para colaborar en proyectos de seguridad. 1dd0rv@proton.me
