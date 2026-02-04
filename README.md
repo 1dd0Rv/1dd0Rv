@@ -6,7 +6,7 @@ $ whoami
 
 $ cat skills.txt
 > Lenguajes:     [ Python, Bash ]
-> Sistemas:      [ Linux (Debian/Kali/RHEL) ]
+> Sistemas:      [ Linux (Debian/Kali/RHEL), Windows Server ]
 > Cloud:         [ AWS/Azure ]
 > Networking:    [ TCP/IP, DNS, DHCP, VLAN, Switching ]
 
