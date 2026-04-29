@@ -1,4 +1,3 @@
-### 🚀 User Profile: 1dd0Rv
 
 ``` Bash
 $ whoami
